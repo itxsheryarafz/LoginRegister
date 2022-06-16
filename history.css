@@ -1,0 +1,11 @@
+.main {
+    background-color: #FFFFFF;
+    width: 700px;
+    height: 583px;
+    margin: 7em auto;
+    border-radius: 1.5em;
+}
+
+.MainForm {
+    position: relative;
+}
